@@ -1,6 +1,9 @@
 # Applied Skills für die Power Plattform
 Übersicht über die Applied Skills Prüfungen PL-7001 PL-7002 PL-7003
 
+Link zum Youtube Video: Power Plattform Applied Skills Prüfungen - PL-7001 PL-7002 PL-7003
+https://youtu.be/7wR1KUuk5zs
+
 Links zu den Prüfungen: https://learn.microsoft.com/de-de/credentials/browse/?products=power-platform&credential_types=applied%20skills
 
 
